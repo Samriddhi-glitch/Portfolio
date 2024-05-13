@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #fcfcfc;
+}
+
+header {
+    background-color: #205996;
+    color: #ffffff;
+    padding: 50px 0;
+    text-align: center;
+}
+
+.intro {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+h1 {
+    font-size: 48px;
+    margin-bottom: 20px;
+}
+h2 {
+    font-size: 24px;
+    margin-bottom: 30px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+    margin: 0 10px;
+}
+
+a:hover {
+    text-decoration: underline;
+}

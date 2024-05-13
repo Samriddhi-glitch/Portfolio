@@ -1,0 +1,37 @@
+body{
+   background-color: #666;
+}
+
+.achievements {
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 10px;
+    background-color: #f8f9fa;
+    text-align: left;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.achievements h1 {
+    font-size: 27px;
+    margin-bottom: 20px;
+}
+
+.achievements h2 {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.achievements p {
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+.achievements a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.achievements a:hover {
+    text-decoration: underline;
+}
